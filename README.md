@@ -25,15 +25,31 @@
 
 ## 📌 Projetos em destaque
 
-🎬 **Clone do Disney+ (React + JavaScript)**
-[Descrição do projeto aqui]
+🎬 **Clone do Disney+ (HTML5 + SCSS + Gulp)**
+
+Projeto que recria a interface do site Disney Plus com funcionalidades completas e design responsivo.
+
+**Funcionalidades:**
+- 🎥 Catálogo de filmes e séries (Disney+, Star+, STARZPLAY)
+- 💰 Planos de assinatura com preços
+- 📺 Suporte para visualizar em múltiplas telas
+- 🖼️ Imagens otimizadas com Gulp
+- 🎯 Design moderno e responsivo para mobile e desktop
+
+**Tecnologias utilizadas:**
+- HTML5 para estrutura
+- SCSS/Sass com variáveis e mixins
+- Gulp para task automation (compressão JS, SCSS, imagens)
+- Totalmente responsivo
+
+🔗 **Link do projeto:** https://clone-disney-plus-khaki-nu.vercel.app/
 
 ---
 
 ## 📚 Cursos realizados
 
 - Profissão: Desenvolvedor Full Stack Python v2 - Por Ebac
-- Inteligêmcia Artificial - Por Ebac
+- Inteligência Artificial - Por Ebac
 - Python
 - JavaScript
 - HTML5 + CSS3
@@ -43,11 +59,11 @@
 ## 🔗 Onde me encontrar
 
 <div>
-  <a href="www.linkedin.com/in/kervin-nunes" target="_blank">
+  <a href="https://www.linkedin.com/in/kervin-nunes" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="40"/>
   </a>
 
-  <a href="kervin0santos@gmail.com">
+  <a href="mailto:kervin0santos@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40"/>
   </a>
 </div>
