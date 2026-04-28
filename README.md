@@ -10,6 +10,11 @@
 
 <h2>🛠️ Tecnologias e ferramentas</h2>
 
-| | | | | | |
-|---|---|---|---|---|---|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" alt="React"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/> |
+<div style="display: flex; gap: 15px; flex-wrap: wrap;">
+  <a href="https://www.python.org/"><img alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30" /></a>
+  <a href="https://react.dev/"><img alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="30" /></a>
+  <a href="https://nodejs.org/"><img alt="nodejs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="30" /></a>
+  <a href="https://git-scm.com/"><img alt="git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="30" /></a>
+  <a href="https://github.com"><img alt="github" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="30" style="filter: brightness(0) invert(1);" /></a>
+</div>
