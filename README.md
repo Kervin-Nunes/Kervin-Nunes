@@ -1,8 +1,8 @@
-## Oii, eu sou o Kervin! 👋
+## Olá, eu sou o Kervin! 👋
 
 🎓 Estudante de **Sistemas de Informação**, atualmente cursando na *EBAC (Escola Britânica de Artes e Tecnologia)*.
 
-💡 Interessado em **desenvolvimento Full Stack**.
+💡 Interessado em **desenvolvimento Full-Stack**.
 
 🚀 Aprendo colocando a mão na massa e desenvolvendo projetos práticos e divertidos.
 
@@ -32,18 +32,22 @@
 
 ## 📚 Cursos realizados
 
-- [Adicionar cursos aqui]
+- Profissão: Desenvolvedor Full Stack Python v2 - Por Ebac
+- Inteligêmcia Artificial - Por Ebac
+- Python
+- JavaScript
+- HTML5 + CSS3
 
 ---
 
 ## 🔗 Onde me encontrar
 
 <div>
-  <a href="https://www.linkedin.com/in/seu-perfil/" target="_blank">
+  <a href="www.linkedin.com/in/kervin-nunes" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="40"/>
   </a>
 
-  <a href="mailto:seu-email@gmail.com">
+  <a href="kervin0santos@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40"/>
   </a>
 </div>
